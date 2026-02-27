@@ -1,0 +1,11 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Flappy Bird",
+  "orientation": "portrait",
+  "scope": "/flappy_bird/",
+  "short_name": "Flappy Bird",
+  "start_url": "/flappy_bird/",
+  "theme_color": "#000000"
+}
